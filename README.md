@@ -1,7 +1,7 @@
 ## hello world 👋
 
-I am a Systems Analysis and Development (ADS) student at the University of Amazonas (UNAMA), Brazil, Pa, Belem.
-I have knowledge of HTML, CSS and Python and am currently deepening my studies in C++ and Django.
+I am currently pursuing a degree in Systems Analysis and Development at the University of Amazonas (UNAMA) in Belém, Pará, Brazil.
+I have knowledge of HTML, CSS, and Python, and I am currently expanding my studies in C++ and Lua.
 
 Interests
 
